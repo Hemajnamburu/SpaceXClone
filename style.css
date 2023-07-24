@@ -464,7 +464,9 @@ p {
     .navbar-brand{
       margin: auto;
     }
-
+    .hamburger{
+      right:0;
+    }
   }
   
 
